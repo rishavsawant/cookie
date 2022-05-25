@@ -30,6 +30,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
        android:onClick="eaten"
-        android:text="EAT COOKIE" />
+        android:text="EAT COOKIE and chill" />
 
 </LinearLayout>
